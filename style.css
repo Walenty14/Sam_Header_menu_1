@@ -28,13 +28,13 @@ nav a {
     text-transform: uppercase;
     color: brown;
     /*transition: .2s; */
-   transition: background-color .2s, color .2s, transform .2s;/*Powiekszenie liter:1 */
+   transition: background-color .2s, color .2s, transform .2s;/* More,Powiekszenie liter:1 */
 }
 nav a:hover {
     background-color: brown;
     color: white;
     /*font-size: 26px; */
-   transform: scale(1.2); /*Powiekszenie liter:2 */
+   transform: scale(1.2); /* More, Powiekszenie liter:2 */
 }
 /*  Header */
 header {
