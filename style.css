@@ -34,7 +34,7 @@ nav a:hover {
     background-color: brown;
     color: white;
     /*font-size: 26px; */
-   transform: scale(1.2); /* More, Powiekszenie liter:2 */
+   transform: scale(1.4); /* More, Powiekszenie liter:2 */
 }
 /*  Header */
 header {
