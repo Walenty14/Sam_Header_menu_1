@@ -27,12 +27,14 @@ nav a {
     font-family: Arial, Helvetica, sans-serif;
     text-transform: uppercase;
     color: brown;
-    transition: .2s;
+    /*transition: .2s; */
+   transition: background-color .2s, color .2s, transform .2s;/*Powiekszenie liter:1 */
 }
 nav a:hover {
     background-color: brown;
     color: white;
-    font-size: 26px;
+    /*font-size: 26px; */
+   transform: scale(1.2); /*Powiekszenie liter:2 */
 }
 /*  Header */
 header {
